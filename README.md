@@ -135,3 +135,7 @@ Config WPT Server:
   [7]: http://www.google.com/chromeframe/eula.html?prefersystemlevel=true
   [8]: http://technet.microsoft.com/en-us/library/cc754272.aspx
   [9]: http://serverfault.com/questions/48650/remote-desktop-session-black-after-minimize
+
+Appd:
+An old post for setting up the private instance from WPT expert, take a reference:
+http://andydavies.me/blog/2012/09/18/how-to-create-an-all-in-one-webpagetest-private-instance/
